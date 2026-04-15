@@ -15,7 +15,7 @@ This repository tracks accessibility testing, issues, and documentation used to 
 
 ## Testing Methods
 
-* Automated: axe DevTools, Lighthouse, WAVE
+* Automated: IBM Equal Access Tool, axe DevTools, Lighthouse, WAVE
 * Manual:
 
   * Keyboard navigation
@@ -26,10 +26,6 @@ This repository tracks accessibility testing, issues, and documentation used to 
 ---
 
 ## Repository Structure
-
-* `/acr/` → Final ACR document (YAML or exported report)
-* `/testing/` → Testing notes and results
-* `/evidence/` → Screenshots, reports, and supporting files
 
 ---
 
@@ -74,3 +70,4 @@ This repository tracks accessibility testing, issues, and documentation used to 
 * Testing Complete: [DATE]
 * ACR Draft: [DATE]
 * Final Submission: [DATE]
+*role="textbox", aria-multiline="true", aria-placeholder="Enter file contents here", aria-autocomplete="list"**aria-labelledby="codemirror-label focus-trap-help-panel"*
